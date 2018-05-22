@@ -1,0 +1,34 @@
+https://github.com/Maheshkvs/Project1.git
+
+create a new repository on the command line
+
+echo "# Project1" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Maheshkvs/Project1.git
+git push -u origin master
+
+push an existing repository from the command line
+
+git remote add origin https://github.com/Maheshkvs/Project1.git
+git push -u origin master
+
+
+https://github.com/Maheshkvs/Project.git
+
+git status
+git add filename
+git comit -m "added filename"
+git push
+
+git pull
+git comit -m "made changes"
+git add -A
+
+
+
+Angular 
+npm install -g @angular/cli@latest
+ng new <some project name>
+
